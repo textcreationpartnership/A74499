@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for continuing the excise. Fryday, March 17. 1653. Ordered by His Highness the Lord Protector, and His Council, that this ordinance be forthwith printed and published. Henry Scobell Clerk of the Council.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74499</idno><idno type="EEBO-CITATION">99868422</idno>
+  <idno type="VID">169180</idno>
+  <idno type="EEBO-PROQUEST">2240958763</idno>
+  
+            <idno type="STC">Thomason E1063_14</idno>
+            <idno type="STC">ESTC R209547</idno>
+            <idno type="PROQUEST">99868422</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868422e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169180)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1063[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for continuing the excise. Fryday, March 17. 1653. Ordered by His Highness the Lord Protector, and His Council, that this ordinance be forthwith printed and published. Henry Scobell Clerk of the Council.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>[2], 105-122 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William du-Gard and Henry Hills, Printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653. [i.e. 1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Excise tax --  England --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169180:1"/>
+            <p>AN ORDINANCE FOR CONTINVING THE EXCISE.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order_to_print">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Fryday, March</hi> 17. 1653.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by His Highness the Lord Protector, and His Council, that this Ordinance be forthwith printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>HENRY SCOBELL Clerk of the Council.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Prin<g ref="char:EOLhyphen"/>ters to His Highness the Lord Protector, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:169180:2"/>
+            <pb n="105" facs="tcp:169180:2"/>
+            <head>
+               <figure>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure> AN ORDINANCE For continuing the EXCISE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He late Ordinance of the four and twenti<g ref="char:EOLhyphen"/>eth of <hi>December</hi> 1653. for continuance of the Receipt of the Excise and New Impost extending no further than the five and twentith of this instant <hi>March,</hi> &amp; the publick Debts assigned upon the Receipts thereof, being not possibly to be discharged within that time, and it being necessary to provide a continual
+<pb n="106" facs="tcp:169180:3"/> supply for the carrying on the weighty Affairs of this Common-wealth out of this Revenu, which is still found to be the most equal and indifferent Levy that can be laid on the peo<g ref="char:EOLhyphen"/>ple, His Highness the Lord Protector, with the Advice and Consent of his Council, doth Ordain, And be it ordained, That from and after the said five and twentieth day of this present <hi>March,</hi> the several Rates and Char<g ref="char:EOLhyphen"/>ges hereafter set down, and every of them, and none other, in the right of the duty of Ex<g ref="char:EOLhyphen"/>cise, shall be set, laid and imposed, and are hereby laid, set and imposed, to be had, levyed, demanded, collected, received, recovered and paid, in and through <hi>England</hi> and <hi>Wales,</hi> and Town and Port of <hi>Barwick,</hi> upon all and eve<g ref="char:EOLhyphen"/>ry the Commodities, Merchandizes and Manufactures, Native and Forein, in man<g ref="char:EOLhyphen"/>ner following, that is to say.</p>
+            <p>
+               <table>
+                  <head>Rates of Excise and Com<g ref="char:EOLhyphen"/>modities of inland making or grovvth.</head>
+                  <row>
+                     <cell rows="2">
+                        <hi>FOr every Barrel of Beer or Ale of above six shillings the Bar<g ref="char:EOLhyphen"/>rel brewed by the common Brew<g ref="char:EOLhyphen"/>er, or by any other Person or Per<g ref="char:EOLhyphen"/>sons who shall sell or tap out Beer or Ale publiquely or privately, to be paid by the said Brewer or such other Person or Persons respectively two shillings.</hi>
+                     </cell>
+                     <cell>l</cell>
+                     <cell>s</cell>
+                     <cell>d</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <pb n="107" facs="tcp:169180:3"/>
+                  <row>
+                     <cell>
+                        <hi>For every Barrel of six shilling Beer or Ale, or above four shilling the Barrel, brewed by the common Brewer, or by any other person or persons, who shall sell or tap out such Beer or Ale publick<g ref="char:EOLhyphen"/>ly or privately, to bee paid by the said Brewer or such other person or persons as aforesaid respectively, six pence</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>And so proportionably for a greater or les<g ref="char:EOLhyphen"/>ser quantitie of Beer or Ale above four shillings the Barrel.</p>
+            <p>And no allowance to bee made from hence<g ref="char:EOLhyphen"/>forth for any Beer or Ale to bee used in Fishing-Vessels at Sea, which is bought of the com<g ref="char:EOLhyphen"/>mon Brewer or Retaler of Beer or Ale.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Allum English, the hundred weight, conteining one hundred and twelv pounds, to bee paid by the maker, six pence</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Coperas English, the hundred weight, conteining one hundred and twelv pounds, to bee paid by the maker, six pence</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hopps English, the hundred weight, to bee paid by the Planter, two shil<g ref="char:EOLunhyphen"/>lings</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Saffron English, for every twentie shillings value, to bee paid by the planter, one shilling</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tin, for every twentie shillings value, to be paid by the buyer, one shilling</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Iron English, for every hundred weight, conteining one hundred and twelv pounds, to bee paid by the maker, one shilling six pence</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                  </row>
+                  <pb n="108" facs="tcp:169180:4"/>
+                  <row>
+                     <cell>
+                        <hi>For all Aquavitae or strong-water made or distilled within the Common<g ref="char:EOLhyphen"/>wealth whether of forrein or domestick Spirits or materials, to bee sold, upon every Gallon, to bee payd by the first maker or Seller thereof respectively, two pence</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For every Barrel of Sope made within this Common-wealth of what sort so<g ref="char:EOLhyphen"/>ever, to be paid by the maker, and so pro<g ref="char:EOLhyphen"/>portionably for hard Sope or soft Sope made within the Land, four shilings</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>04</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For every Ounce Troy of Silver or Gold prepared, melted down, or disgros<g ref="char:EOLhyphen"/>sed for Wyer, to bee paid at the Bar where the same shall bee disgrossed, two pence</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For every pound weight, conteining sixteen ounces Averdupois, of any Cop<g ref="char:EOLhyphen"/>per or other metal, that shall bee pre<g ref="char:EOLhyphen"/>pared, made fit, or disgrossed, to bee paid at the Bar where the same shall bee dis<g ref="char:EOLhyphen"/>grossed, one shilling</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all Linseed Oyl, Whale Oyl, Blub<g ref="char:EOLhyphen"/>ber Oyl, Rape Oyl, Pilchard Oyl, and all other Oyls made within this Common<g ref="char:EOLhyphen"/>wealth, upon every Tun, to bee paid by the maker, six shilling <hi>per</hi> Tun</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For every fother of Lead, containing two thousand pound weight, at one hundred and twelv pounds to the hun<g ref="char:EOLhyphen"/>dred, to bee paid by the maker or smel<g ref="char:EOLhyphen"/>ter, six shillings eight pence</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                     <cell>
+                        <hi>08</hi>
+                     </cell>
+                  </row>
+                  <pb n="109" facs="tcp:169180:4"/>
+                  <row>
+                     <cell>
+                        <hi>For all Salt, made, or to be made with<g ref="char:EOLhyphen"/>in England, Wales, or Town of Ber<g ref="char:EOLhyphen"/>wick, which is or shall bee shipped or conveyed by water, to bee payd by the first buyer of such Salt at the place of Landing or unloading therof, upon eve<g ref="char:EOLhyphen"/>ry Gallon, a half penny.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00 ½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all other Salt, made, or to bee made within England, Wales, or Town of Berwick, and not shipped or conveyed by water, to bee paid by the first Buyer thereof upon the first delivering, upon every Gallon, a half penny.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00 ½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Upon all Salt upon Salt, that is made of Salt within England, Wales, or Town of Berwick, to bee paid by the maker thereof, upon every Gallon a farthing.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00 ¼</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all Syder and Perry, made and sold by way of Retail, whether it bee by the first maker or any Buyer or Re<g ref="char:EOLhyphen"/>ceiver thereof from the first maker up<g ref="char:EOLhyphen"/>on every Hogshead, and so for a greater and lesser measure proportionably, two shillings six pence.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all Metheglin or Mead and such like Drinks sold out by Retail, to bee paid by the Retayler, upon every Gallon and so <hi>pro rato,</hi> one penny.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all Starch, upon every twenty shil<g ref="char:EOLhyphen"/>lings value thereof, to be paid by the first maker, one shilling.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all sorts of glass or glasses, upon every twenty shillings value thereof, to bee paid by the maker, one shilling.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="110" facs="tcp:169180:5"/>
+            <p>
+               <table>
+                  <head>Rates of Excise of forrein goods imported.</head>
+                  <row>
+                     <cell rows="2">
+                        <hi>For every pound of Tobacco, which is not of the English plantation aswel already imported and remaining in the hands of the Merchant or Importer, as to bee imported, to be paid by the first Buy<g ref="char:EOLhyphen"/>er, one shilling.</hi>
+                     </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For every pound of Tobacco of the English plantation, aswel imported and remaining in the hands of the Importer as to bee imported, to bee paid by the first Buyer, three pence.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>03</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For every Tun of Wine already im<g ref="char:EOLhyphen"/>ported or to bee imported, to bee paid by the first Buyer, whether Retailer or private Consumptioner, six pounds.</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For every Tun of Wine-Vinegar, im<g ref="char:EOLhyphen"/>ported or to bee imported, to bee paid by the first Buyer, forty shillings.</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all Spirits imported, or to bee im<g ref="char:EOLhyphen"/>ported, made either of French, Rhenish or any other Wines, upon every Gallon, to bee paid by the first Buyer, four pence.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>04</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all Spirits forrein, or domestick sold instead of Aquavitae or strong Wa<g ref="char:EOLhyphen"/>ters, upon every Gallon, to bee paid by the Utterer and Seller thereof, one shil<g ref="char:EOLhyphen"/>ling.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all strong Waters perfectly made, imported, or to bee imported, upon every Gallon, to bee paid by the first buyer, one shilling.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <pb n="111" facs="tcp:169180:5"/>
+                  <row>
+                     <cell>
+                        <hi>For all Beer or Ale imported by Sea, or brought in by Land into England, Wales, or Town of Berwick, for every Barrel to bee paid by the Importer, five shillings.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>05</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all Pepper, Sugars, Sugars refined, white and brown Muscavadoes, Can<g ref="char:EOLhyphen"/>dy white and brown, and all other grocery and mercery wares, wrought Silks, Silks in gumme and ready thrown, Linnens fine and course, Upholstery, Haberdashery, Paper, Skins, and Leather, upon every twenty shillings value, to bee payed by the first buyer, one shilling.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all manner of Drugs, according as they are distinguished by the book of Rates for the customs, upon every twenty shillings value, to bee paid by the first buyer, two shillings.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all forrein Sope imported or to bee imported, soft or hard, for every hundred weight thereof, conteining one hundred and twelv pounds, to bee paid by the first buyer, five shillings.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>05</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all Saltery wares not particularly rated in this Schedule imported or to bee imported, upon every twenty shillngs value thereof as they or any of them shall bee sold at a price, to bee paid by the first buyer thereof, one shilling.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all Hopps forrein, the hundred weight, conteining one hundred and twelv pounds, to bee paid by the first buyer, over and above Customes, five shillings.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>05</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <pb n="112" facs="tcp:169180:6"/>
+                  <row>
+                     <cell>
+                        <hi>For all Hemp, Flax, Towe, Tarre, Ro<g ref="char:EOLhyphen"/>zen, Pitch, wax, Tallowe, Cable, Cable<g ref="char:EOLhyphen"/>yarn, and all manner of Cordage, upon every twenty shillings value, to bee paid by the first buyer, six pence.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all sort of Glass or Glasses, and all manner of Earthen-ware whatsoever, upon every twenty shillings value, to bee paid by the first buyer, two shillings.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>02</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all manner of Woollen Cloth, or Stuffs, or other-woollen Manufactures imported, for every Yard measure over and above the rates mentioned of Cu<g ref="char:EOLhyphen"/>stomes, to bee paid by the Importer, one shilling.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all raw Silk imported or to bee imported, for every twenty shillings value thereof, and so proportionably for a greater or lesser value, to bee paid by the first buyer, six pence.</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>06</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all forrein Salt imported, which hath not paid Excise, or to bee import<g ref="char:EOLhyphen"/>ed, upon every Gallon, to bee paid by the first buyer, three half pence</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01 ½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all bonelace imported, for every twentie shillings in value, to bee paid by the first buyer, three shillings</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>03</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <pb n="113" facs="tcp:169180:6"/>
+                  <row>
+                     <cell>
+                        <hi>For all died Silk imported, for everie twentie shillings in value, to be paid by the first buyer, five shillings</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>05</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all Silk Lace imported, for every twentie shillings in value, to be paid by the first buyer, three shillings</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>03</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all other Goods and Merchandizes (except Bullion, Corn, Victual, Arms, Ammunition, Ordnance of Brass or Iron imported, or to bee imported) not spe<g ref="char:EOLhyphen"/>cified or herein rated, to pay after the rate of five pound <hi>per Cent.</hi> according as the same are charged by the book of Rates for the Customs, to bee paid by the first buyer, one shilling</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For all other Goods and Merchandizes imported, or to be imported, upon which no values are set, either in the said book of Rates for Customs, nor in these present Rates for Excise, upon every twenty sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l<g ref="char:EOLhyphen"/>lings value therof, as they or any of them shall bee sold at a price, to be paid by the first buyer, one shilling</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                     <cell>
+                        <hi>01</hi>
+                     </cell>
+                     <cell>
+                        <hi>00</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>That for all Inland or Forrein Commo<g ref="char:EOLhyphen"/>dities in this Ordinance mentioned, whether rated by the pound weight, hundred weight, fodder, pound value, gallon, barrel, tun, or other greater or lesser measure or weight what<g ref="char:EOLhyphen"/>soever, the Excise shall bee duly paid for a greater or lesser quantitie <hi>pro rato,</hi> according to the rates therein appointed and prescribed respe<g ref="char:EOLhyphen"/>ctively.</p>
+            <pb n="114" facs="tcp:169180:7"/>
+            <p>And as to the Contents of a Tun of all liquid commodities imported, It is hereby declared, That two Buts, two Pipes, four Hogsheads, of what sort soever, six Terses, three Punchins, or Tertions, and right quarter Casks shall bee accounted or reckoned for a Tun and no other. And every Cask of any liquid commodities imported; which, if full, shall exceed a quarter Cask, shall bee accounted for a Teirse, and every Cask that shall exceed a Teirse shall bee accounted for a Hogshead, and every Cask that shall exceed a Hogshead shall bee accounted a Punchion, and every Cask that shall exceed a Punchion, shall bee accounted a But or Pipe without any pre<g ref="char:EOLhyphen"/>tence of undergage whatsoever. Provided alwaies that in case of any real sale of any of the aforementioned commodities before the <hi>25</hi> of this instant <hi>March,</hi> whereof due entrie and cer<g ref="char:EOLhyphen"/>tificate is or shall bee made accordingly, the Ex<g ref="char:EOLhyphen"/>cise shall bee accepted and received after the rates of any Schedule of Excise at that time in force, so as the same shall bee all cleared, discharged and fully paid before the <hi>25</hi> day of <hi>April</hi> after the date of this present Ordinance, or otherwise the rates hereby set and imposed to bee taken and received unto the advantage of the Common<g ref="char:EOLhyphen"/>wealth. Provided also that whatever commo<g ref="char:EOLhyphen"/>dities are omitted abated or discharged by this Ordinance, all persons whatsoever shall bee liable to pay the Excise thereof, and thereupon accruing until the <hi>25</hi> of this present <hi>March,</hi> any thing in this Ordinance notwithstanding.
+<pb n="115" facs="tcp:169180:7"/> And it is further ordained, That all and eve<g ref="char:EOLhyphen"/>ry the Acts, Ordinances, and Orders of Par<g ref="char:EOLhyphen"/>lament touching the Excise, and every clause, sentence and Article in them or any of them contained, which were in force the first day of <hi>March</hi> one thousand six hundred fifty and three, as well for the collecting, gathering and re<g ref="char:EOLhyphen"/>ceiving, as concerning the Government and ordering the Excise, be likewise continued and put in execution for receiving and recovering the several rates in this Ordinance mentioned, notwithstanding any alteration therein made as to the Persons, Buyers, Sellers, Grow<g ref="char:EOLhyphen"/>ers, Planters, or others in any wise charged with the payment thereof. And it is likewise ordained, That from and after the said five and twentieth day of <hi>March</hi> instant, <hi>Thomas Allen</hi> Alderman of the City of <hi>London, Tho<g ref="char:EOLhyphen"/>mas Wood, Richard Bury, George Langham, <abbr>Esqs</abbr>
+               </hi> and <hi>George Foxcroft,</hi> Merchant, and none o<g ref="char:EOLhyphen"/>thers, are and shall be, and are hereby decla<g ref="char:EOLhyphen"/>red, constituted and appointed, Commissio<g ref="char:EOLhyphen"/>ners and Governours of the Excise and New Impost, who, or any three or more of them, are hereby impowred and authorized to exercise and put in execution all and every the powers and auchorities given or granted by, or con<g ref="char:EOLhyphen"/>tained in all or any the said Acts, Ordinances or Orders of Parlament touching the Excise and New Impost, as well for the collecting and receiving the several rates in this present Ordinance imposed and set, as the arrears up<g ref="char:EOLhyphen"/>on any former Schedule or rates due, And concerning the Government and ordering of the Excise and New Impost, as fully and am<g ref="char:EOLhyphen"/>ply as any Commissioners for Excise at the
+<pb n="116" facs="tcp:169180:8"/> first of <hi>March</hi> aforesaid, might or ought to have done, and shall observe such Orders and Directions as they shall from time to time re<g ref="char:EOLhyphen"/>ceive from his Highness the Lord Protector and his Council touching the same; And the said Commissioners, for their care, pains, and service therein, shall have and pay themselves quarterly, in every twenty shillings raised and levyed free and cleer from all abatements and allowances for exportations or otherwise, two pence, and shall be lyable according to the same rate for all such exportations or other<g ref="char:EOLhyphen"/>wise, for one year after they shall be dismissed from this trust, and no longer.</p>
+            <p>And it is further ordained by the Lord Pro<g ref="char:EOLhyphen"/>tector, with the co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sent of his Council, That Sir <hi>William Roberts,</hi> Knight, <hi>John Stone, Henry Elsing, Jervas Bennet, Adam Bains,</hi> and <hi>John Boc<g ref="char:EOLhyphen"/>ket, <abbr>Esqs</abbr>
+               </hi> or any three of them, be and shall be hereby authorized to receive all appeals, and to hear, decide and determine the same, and to consider and examine by Oath or otherwise what arrears of Excise are not yet paid, and what herafter may accrue, either remaining in the hands of any Farmer, Commissioner, Sub<g ref="char:EOLhyphen"/>commissioner, Collector, Importer, Seller, Buyer, Planter, Grower or Maker, or of any Commodities excisable whatsoever, or in the hands of any person whatsoever, or for which any person or persons stand engaged with any Farmer or Sub-Comissioner, or for which any person whatsoever, by bond, bill, entry, promise, or other engagement, hath been, may or shall become obliged, and to send for all persons, accompts, articles, receits, bonds, or any writings concerning the Excise, or in any wise
+<pb n="117" facs="tcp:169180:8"/> relating thereunto; And to hear all parties, and to determine all differences concerning the premisses. And if any Sub-Commissio<g ref="char:EOLhyphen"/>ner, Collector, Farmer, or any their De<g ref="char:EOLhyphen"/>puties, or any Sureties for them or any of them, or any Importer, Buyer or Seller, Carrier or Conveyer of any the excisable com<g ref="char:EOLhyphen"/>modities, or any person engaged for them or any of them, shall refuse or delay to pay into the Treasury of the Excise, any arrears, fines, forfeitures, or other Summes of mo<g ref="char:EOLhyphen"/>ney, which by the said last-recited Commissio<g ref="char:EOLhyphen"/>ners, or any three of them, shall be adjudged due to the Commonwealth, and ordered to be paid, upon such default certified under the hand of the Treasurer, and from the last-recited Commissioners, or any three of them, unto the Commissioners for mannaging the Estates under Sequestration, the said Com<g ref="char:EOLhyphen"/>missioners for mannaging Estates under Se<g ref="char:EOLhyphen"/>questration shall and are hereby authorized and required to sequester the Estate of all such persons, both personal and real, till such ar<g ref="char:EOLhyphen"/>rears, fines, forfeitures, and summes of mo<g ref="char:EOLhyphen"/>ney be fully paid with dammages; And in case the same shall not be received and paid within six moneths next after such Sequestration, then all and every such Estate so sequestred, may and shall be sold by such persons as the said Commissioners for mannaging Estates under Sequestration shall appoint, rendring the overplus to the person so offending; and if any Collector, Receiver, or any other of<g ref="char:EOLhyphen"/>ficer or person at any time relating to the Ex<g ref="char:EOLhyphen"/>cise shall pretend any thing due to him from the Common-wealth, or from any Commissioner
+<pb n="118" facs="tcp:169180:9"/> of the Excise, and upon that or any other pre<g ref="char:EOLhyphen"/>tence shall detein any money in his hands, or arrears unpaid into the Treasury, the afore<g ref="char:EOLhyphen"/>mentioned Commissioners for Appeal, or any three of them, are hereby impowred to hear and determine the same, and to make such or<g ref="char:EOLhyphen"/>der and allowance, in all such Cases, as shall be just; and the said Commissioners, or any three of them, are authorized to hear and deter<g ref="char:EOLhyphen"/>mine all sutes, bills, complaints or differen<g ref="char:EOLhyphen"/>ces, and to relieve any persons, by delivering bonds, releasing extents, or otherwise in all cases concerning Excise, as the Barons of the <hi>Exchequer,</hi> or any the Committees of the late Parlament for regulating the Excise, or for inspecting the Treasuries, and regulating Of<g ref="char:EOLhyphen"/>ficers and salaries, or any other, might have done, any Custom, Vsage, Statute, Act, or Ordinance to the contrary notwithstanding. And the said last-recited Commissioners, or any three of them, shall have like authority to re<g ref="char:EOLhyphen"/>trench the number and salaries of all Officers and Offices relating to the Excise, and to give out directions to the Commissioners for the Excise for the time being, to farm out the Ex<g ref="char:EOLhyphen"/>cise of such Counties, Places, or Commodities, in <hi>England, Wales,</hi> and Town of <hi>Barwick</hi> up<g ref="char:EOLhyphen"/>on <hi>Tweed,</hi> as to them, or any three of them, shall appear to be most advantagious for the Commonwealth, and ease of the people, so as the same be not at a lesse rate than the excise of such County, Place, or Commodity was farmed at the last year before, unless it shall be made apparent unto the said Commissio<g ref="char:EOLhyphen"/>ners, or any three of them, that the said Coun<g ref="char:EOLhyphen"/>ties, Places, or Commodities were before
+<pb n="119" facs="tcp:169180:9"/> over-rated or lessned by this Ordinance, in which case they are to determine and agree as shall be to the best advantage of the Com<g ref="char:EOLhyphen"/>monwealth; And the said last-recited Com<g ref="char:EOLhyphen"/>missioners, or any three of them, are impow<g ref="char:EOLhyphen"/>red to establish and settle all Salaries and wa<g ref="char:EOLhyphen"/>ges of all Officers relating to the Excise, pay<g ref="char:EOLhyphen"/>able by the Commonwealth from time to time as they shall think fit, and to allow of all ne<g ref="char:EOLhyphen"/>cessary charges and rewards as shall be given and expended by the Commissioners of Excise for the carrying on of that service, and shall have power to send for all parties, witnesses, writings and records belonging to any case brought before them, &amp; to examine upon oath, and to fine, or commit to prison all such persons as shall appear to them to hinder and oppose the execution of the several Acts, Ordinances, and Orders of Parlament, or of the Lord Protector and his Council, for the excise, or the Ministers and Officers imployed in the said service, or oppose, resist, or refuse any law<g ref="char:EOLhyphen"/>full distress by locking up the Doors or other<g ref="char:EOLhyphen"/>wise, and by like Fine and Imprisonment to punish all frauds, concealments, false or short entries, and counterfeiting of hand-writings, entries, or alterations, or amendments ther<g ref="char:EOLhyphen"/>of; In all and every of which cases, if any person do not pay the fine imposed on him within the time limitted, he shall and may be proceeded against by Sequestration, in manner and form as before is herein declared and or<g ref="char:EOLhyphen"/>dained.</p>
+            <p>And the said last recited Commissioners, or any three of them, shall from time to time de<g ref="char:EOLhyphen"/>bate, consult, and devise of all waies and means
+<pb n="120" facs="tcp:169180:10"/> for improvement of the Excise, for the best ad<g ref="char:EOLhyphen"/>vantage of the Commonwealth, in pursu<g ref="char:EOLhyphen"/>ance of the several Acts, Ordinances and Orders relating thereunto, and to offer their opinion unto the Lord Protector, and his Council, for removing obstructions, and im<g ref="char:EOLhyphen"/>provement of the Excise, as they shall think fit and necessary; And from time to time to determine all such differences which may hap<g ref="char:EOLhyphen"/>pen and arise between the said Commissioners of Excise and the Comptroller. And the said Commissioners, or any three of them, are im<g ref="char:EOLhyphen"/>powred to release such person or persons from prison, who shall be committed by the Com<g ref="char:EOLhyphen"/>missioners for the Excise, or their Sub-Com<g ref="char:EOLhyphen"/>missioners or Farmers.</p>
+            <p>And the Commissioners of Excise, and their Sub-commissioners for the time being, are hereby authorized to appoint Officers or o<g ref="char:EOLhyphen"/>thers to seize all exciseable commodities upon the water, or neer the shore thereof, which shall be conveying by day or night, and attempted to be landed, or which shall be landed or con<g ref="char:EOLhyphen"/>veyed ashore contrary to the Laws of the Excise contained in the eleventh, twelfth, thir<g ref="char:EOLhyphen"/>teenth, fourteenth, seventeenth, and eigh<g ref="char:EOLhyphen"/>teenth Articles of the Act of Parlament for Excise, published in print by Order of Par<g ref="char:EOLhyphen"/>lament of the fourteenth day of <hi>August</hi> one thousand six hundred forty nine; as also to ap<g ref="char:EOLhyphen"/>point like Officers for Gagers over all Soap-boylers, and makers of any Oyls, as are at present accustomed with the Brewers, whose returns shall be a Charge on the said Soap-boylers and Makers of Oyls; And the said Soap-boylers and Makers of Oyls shall
+<pb n="121" facs="tcp:169180:10"/> permit such Officers entrance, both day and night, into all rooms and places whatsoever as they shall demand, upon pain of like forfei<g ref="char:EOLhyphen"/>ture of fifty pounds for every refusal, as in like cases to the Brewers is appointed and or<g ref="char:EOLhyphen"/>dained.</p>
+            <p>And the said Commissioners of Excise, and their Sub-commissioners, shall not hereafter make repayment of any excise for any goods at any time imported which have been once sold unto, or in the possession of a Retailer of the same Commodity, or for any such goods, where the property, form or nature of the Commodity once imported and excised, is in any wise altered, mingled, amended or con<g ref="char:EOLhyphen"/>founded; or for any Wines, Wine-Vineger or Tobaccoes whatsoever.</p>
+            <p>And lastly, the Commissioners for Appeals herein named, or any three of them, shall be, and are hereby authorized, in all causes relating to the excise, to relieve and indempnify aswell the present Commissioners of the excise, as also all former and future Commissioners of the excise, and all Sub-Commissioners, Farmers, and all other Officers and persons whatsoever, imployed, in or called to assistance for the due execution of any Warrant or Com<g ref="char:EOLhyphen"/>mission in pursuance of this present Ordi<g ref="char:EOLhyphen"/>nance; And the said Commissioners, or any three of them, shall from time to time have power to put in execution all former Acts, or Ordinances for Indempnity, so far as they may concern the excise, in as full and ample manner as any former Commissioners for Indempnity might, ought, or could have done. And all Courts of Iustice of this
+<pb n="122" facs="tcp:169180:11"/> Common wealth, and all Iudges and Iusti<g ref="char:EOLhyphen"/>ces of the same, and all Sheriffs, Counsel<g ref="char:EOLhyphen"/>lors, Atturneys, Solicitors, and all other persons, are hereby required to conform them<g ref="char:EOLhyphen"/>selves accordingly, without any opposition or dispute whatsoever.</p>
+            <p>This Ordinance to commence from the five and twentieth day of <hi>March</hi> one thousand six hundred fifty four, and to continue to the five and twentieth day of <hi>March</hi> which shall be in the year of our Lord one thousand six hundred fifty five.</p>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Fryday, March</hi> 17. 1653.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by His Highness the Lord Protector, and His Council, That this Ordinance be forth<g ref="char:EOLhyphen"/>with Printed and Published.</p>
+            <closer>
+               <signed>HEN. SCOBELL, Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
